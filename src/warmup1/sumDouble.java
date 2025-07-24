@@ -8,5 +8,4 @@ public class sumDouble {
         }
         return sum;
     }
-
 }
